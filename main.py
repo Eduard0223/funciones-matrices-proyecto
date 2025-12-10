@@ -13,7 +13,7 @@ if ritmo_interaccion_elevado(i):
     bonus = factores_contenido()
     b = b * (1 + bonus)
     print(f"Punto inicial (a): {a:.0f}")
-    print(f"Tasa de crecimiento (b): {b:.4f}")
+    print(f"Tasa de crecimiento (b): {b:.1f}")
 
     h = int(input("\nHoras a proyectar: "))
     p = proyectar(a, b, h)
