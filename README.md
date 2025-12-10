@@ -54,11 +54,12 @@ Interacciones en la hora 1: 560
 Ritmo de interacción elevado. Ajustando modelo.
 
 Punto inicial (a): 200
-Tasa de crecimiento (b): 2.8049
+Tasa de crecimiento (b): 2.8
 
 En 1 hora(s) más: 560 interacciones estimadas
 En 2 hora(s) más: 1567 interacciones estimadas
 
 -Resumen-
 El programa permite analizar el crecimiento temprano de un reel mediante un modelo matemático simple, considerando tanto los datos reales como factores del contenido.
+
 Proporciona una proyección clara sobre su posible evolución en las horas siguientes.
